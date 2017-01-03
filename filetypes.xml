@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="I18n" type="JavaScript" />
+      <mapping ext="avi" type="Native" />
+    </extensionMap>
+  </component>
+</application>
